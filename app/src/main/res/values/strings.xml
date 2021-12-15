@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Waldaufforstung</string>
+
+    <string name="todo">Waldaufforstung</string>
+    <string name="screen2">screen2</string>
+    <string name="fl_che_berechnen">Fläche berechnen</string>
+
+    <string name="anzahl_der_pflanzen">Anzahl der Pflanzen:</string>
+    <string name="pflanzenanzahl_berechnen">Pflanzenanzahl berechnen</string>
+    <string name="pflanzenanzahl_eingeben">Pflanzenanzahl eingeben (Ha)</string>
+    <string name="fl_che_ha">Fläche (Ha)</string>
+    <string name="ausgabe_pflanzenanzahl">Ausgabe: Pflanzenanzahl</string>
+
+
+
+
+
+    <string name="eiche">Eiche</string>
+    <string name="buche">Buche</string>
+    <string name="fichte">Fichte</string>
+    <string name="eingabe_fl_che_ha">Eingabe: Fläche (Ha)</string>
+    <string name="eingabe_pflanzenanzahl">Eingabe: Pflanzenanzahl</string>
+    <string name="kiefer">Kiefer</string>
+    <string name="kieferr">Kiefer</string>
+    <string name="eichee">Eiche</string>
+    <string name="ausgabe_ben_tigte_fl_che_in_ha">Ausgabe: Benötigte Fläche in Ha</string>
+    <string name="eingabe_pflanzenanzahl_eines_typs">Eingabe: Pflanzenanzahl eines Typs</string>
+    <string name="ausgabe_anzahl_des_typs">Ausgabe: Anzahl des Typs</string>
+
+
+</resources>
